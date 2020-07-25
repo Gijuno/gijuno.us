@@ -1,1 +1,6 @@
-https://m.blog.naver.com/dhm04127/10061795841
+
+<head>
+<script language="javascript">
+location.href="https://m.blog.naver.com/dhm04127/10061795841";
+</script>
+</head>
